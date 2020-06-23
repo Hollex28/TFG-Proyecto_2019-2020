@@ -4,37 +4,37 @@ Trabajo final de grado
 Estado
 
 0. Resumen (DONE)
-1. Introducción
-	- Motivación
+1. IntroducciÃ³n
+	- MotivaciÃ³n
 	- Objetivos
 	- Impacto Esperado
-	- Metodología
+	- MetodologÃ­a
 	- Estructura
 	- Colaboraciones
 	- Convenciones
 2. Estado del arte
-	- Crítica al estado del arte
+	- CrÃ­tica al estado del arte
 	- Propuesta
-3. Análisis del problema
-	- Análisis de la seguridad
-	- Análisis energético o de eficiencia algorítmica
-	- Análisis del marco legal y ético
-	- Análisis de riesgos
-	- Identificación y análisis de soluciones posibles
-	- Solución propuesta
+3. AnÃ¡lisis del problema
+	- AnÃ¡lisis de la seguridad
+	- AnÃ¡lisis energÃ©tico o de eficiencia algorÃ­tmica
+	- AnÃ¡lisis del marco legal y Ã©tico
+	- AnÃ¡lisis de riesgos
+	- IdentificaciÃ³n y anÃ¡lisis de soluciones posibles
+	- SoluciÃ³n propuesta
 	- Plan de Trabajo
 	- Presupuesto
-4. Diseño de la solución
+4. DiseÃ±o de la soluciÃ³n
 	- Arquitectura del Sistema
-	- Diseño Detallado
-	- Tecnología Utilizada
-5. Desarrollo de la solución propuesta
-6. Implantación
+	- DiseÃ±o Detallado
+	- TecnologÃ­a Utilizada
+5. Desarrollo de la soluciÃ³n propuesta
+6. ImplantaciÃ³n
 7. Pruebas
 8. Conclusiones
-	-Relación del trabajo desarrollado con los estudios cursados
+	-RelaciÃ³n del trabajo desarrollado con los estudios cursados
 9. Trabajos futuros
-10.Referencias
-	- Referencias a pie de página
+10. Referencias
+	- Referencias a pie de pÃ¡gina
 	- Anexos
 	- Glosario
