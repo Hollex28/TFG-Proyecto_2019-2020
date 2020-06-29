@@ -1,0 +1,4 @@
+http://misko.hevery.com/2009/09/28/hello-world-angular-is-here/
+https://medium.com/dailyjs/angular-1-0-turns-five-years-old-4d7108a5e412#:~:text=0%20in%20October%20of%202010,launched%20on%20June%2014th%2C%202012.
+https://angularjs.org/
+https://docs.angularjs.org/guide/introduction
